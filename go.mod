@@ -1,6 +1,6 @@
 module github.com/BradleyZhang/ecommerce-review-job
 
-go 1.27.3
+go 1.26.9
 
 require (
 	github.com/elastic/go-elasticsearch/v9 v9.5.2
